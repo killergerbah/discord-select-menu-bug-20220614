@@ -1,0 +1,6 @@
+.idea/
+application.properties
+.java-version
+target/
+.mvn/wrapper/maven-wrapper.jar
+

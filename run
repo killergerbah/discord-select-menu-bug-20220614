@@ -1,0 +1,2 @@
+./mvnw clean install
+./mvnw exec:java -Dexec.mainClass="org.gerbil.discord.bug.Main" -Dconfig.file=application.properties
